@@ -10,6 +10,7 @@
 - Imgur (WIP) - The simple image sharer.
 - 500px (WIP) - Discover amazing photography.
 - Woot (WIP) - Get the deals of the day.
+- Projectr (WIP) - Open local project windows in a snap.
 
 
 ### License
