@@ -5,7 +5,7 @@
 
 ### Workflows
 
-- Workfrom - Alfred workflow to quickly find nearby places to work.
+- Workfrom - Alfred workflow to quickly find nearby places to work. [Download](https://git.io/workfrom-alfred)
 - Hipsum - Oh, you need some dummy text? Alright, I guess...
 - Reddit - The front page of the internet.
 - Imgur (WIP) - The simple image sharer.
